@@ -3,4 +3,6 @@ Hello Guys this Repository for Phishing activity for Faceboook. It contains with
 
 ATTENTION : This is only for educational purpose, We will not responsible for a criminal offence.
 
+STEP 1
+
 Download this repository using the zip file or git clone https://github.com/professionalprince/facebook-phisher.git
