@@ -1,7 +1,7 @@
 # facebook-phisher
-Hello Guys this Repository for Phishing activity for Faceboook. It contains with a php file and some web development files, it has need a server or hosting website paid or free as you can afford, it recommend as a free website to 000webhost.com
+Hello Guys this Repository for Phishing activity for Faceboook. It contains a php file and some styling files, it requires a server or hosting website (paid or free) as you can afford, recommended : use 000webhost.com for a free website.
 
-ATTENTION : This is only for educational purpose, We will not responsible for any criminal offence.
+ATTENTION : This repository is only for educational purpose, We will not be responsible for any criminal offence.
 
 STEP 1
 Download this repository using the zip file or git clone https://github.com/professionalprince/facebook-phisher.git
@@ -16,4 +16,4 @@ STEP 4
 Now modify your files as you like
 
 STEP 5
-Now send this link to victim as you can send
+Now send this link to victim as you can send.
